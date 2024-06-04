@@ -35,7 +35,7 @@ Players of TitanStar Legends can spend talent points collected on runes within a
 
 ### Example:
 
-![Example](assets/example.png)
+![Example](./src/assets/example.png)
 
 ## Code Standards and Practices
 
